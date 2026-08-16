@@ -1,0 +1,11 @@
+VERCEL DEPLOYMENT REPORT
+
+project_root: image-stock-main
+removed_invalid_vercel_json: True
+package_name: african-photos-videos
+next_version: ^14.0.0
+react_version: ^18.2.0
+build_script: next build
+detected_environment_variables: ['NEXT_PUBLIC_SITE_URL', 'NODE_ENV']
+structural_checks: {'package.json': True, 'next.config.*': True, 'src or app/pages': True, 'public': True}
+recommended_vercel_settings: {'framework': 'Next.js', 'build_command': 'npm run build', 'output_directory': 'Default', 'install_command': 'npm install', 'root_directory': 'image-stock-main'}
