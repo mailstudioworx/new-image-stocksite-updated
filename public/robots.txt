@@ -1,0 +1,35 @@
+# African Photos and Videos - robots.txt
+# Directs search engine crawlers on how to index the site
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /.next/
+Disallow: /node_modules/
+Disallow: /_next/
+Disallow: /public/
+Disallow: *?fbclid=
+Disallow: *?utm_
+Allow: /*.js
+Allow: /*.css
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.png
+Allow: /*.webp
+
+# Slow crawlers
+User-agent: AhrefsBot
+User-agent: SemrushBot
+User-agent: DotBot
+Crawl-delay: 10
+
+# Specific rules for Googlebot
+User-agent: Googlebot
+Allow: /
+
+# Specific rules for Bingbot
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://www.africanphotosandvideos.com.ng/sitemap.xml
+Sitemap: https://www.africanphotosandvideos.com.ng/sitemap-images.xml
