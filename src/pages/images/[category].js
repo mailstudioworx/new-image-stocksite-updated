@@ -88,7 +88,7 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
+          getty: 'https://www.gettyimages.ie/detail/photo/neighbourhood-watch-royalty-free-image/919803222',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
           adobe: 'INSERT_ADOBE_STOCK_LINK',
           pond5: 'INSERT_POND5_LINK'
@@ -104,7 +104,7 @@ export async function getStaticProps({ params }) {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
           adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -115,9 +115,9 @@ export async function getStaticProps({ params }) {
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=dispatch',
           adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -130,7 +130,7 @@ export async function getStaticProps({ params }) {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
           adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          pond5: 'INSERT_POND5_LINK',
         }
       },
       {
