@@ -1983,8 +1983,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=travel',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=chain&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=finance',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -1996,7 +1996,7 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
+          getty: 'https://www.gettyimages.ie/search/stack/867214239?family=creative&assettype=image',
           shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=travel',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
@@ -2009,8 +2009,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/stack/867214239?family=creative&assettype=image',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -2022,8 +2022,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/stack/867214239?family=creative&assettype=image',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -2035,8 +2035,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/stack/867214239?family=creative&assettype=image',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -2048,8 +2048,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/stack/867214239?family=creative&assettype=image',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -2061,8 +2061,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/stack/867214239?family=creative&assettype=image',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -2074,8 +2074,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/stack/867214239?family=creative&assettype=image',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -2087,8 +2087,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/stack/867214239?family=creative&assettype=image',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -2100,8 +2100,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/stack/867214239?family=creative&assettype=image',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -2113,8 +2113,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/stack/867214239?family=creative&assettype=image',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -2126,8 +2126,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/stack/867214239?family=creative&assettype=image',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
