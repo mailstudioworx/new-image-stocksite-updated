@@ -221,7 +221,7 @@ export async function getStaticProps({ params }) {
           getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=tricyle&sort=best&license=rf%2Crm',
           shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=tricycle',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
-          pond5: 'https://www.pond5.com/artist/sunkanmi38180'
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       }
     ],
@@ -234,10 +234,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=fish&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=food%20market',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -247,10 +247,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=designer&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=designer',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -260,10 +260,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=market&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=market',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -273,10 +273,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=fashion%20designer&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=fashion',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -286,10 +286,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=fashion%20designer&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=fashion&page=2',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -299,10 +299,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=aerial%20market&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=aerial%20market',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -312,10 +312,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=traffic&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=lagos%20market',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -325,10 +325,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=crowd&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=market%20aerial',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -338,10 +338,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=shopping&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=shopping',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -351,10 +351,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=ikorodu&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=ikorodu',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -364,10 +364,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=shopping&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=shopping',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -377,10 +377,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=ikorodu&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=car%20park',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       }
     ],
