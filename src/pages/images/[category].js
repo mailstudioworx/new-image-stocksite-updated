@@ -2070,7 +2070,7 @@ export async function getStaticProps({ params }) {
       {
         id: 'creative-8',
         title: 'Creative 8',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2222477706/photo/circle-of-protection-over-fire-outbreak.jpg?s=612x612&w=0&k=20&c=fkJlQZO3ShniKq3i_Pne6gfdyexzFoBHi39PqdaGoSQ=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
