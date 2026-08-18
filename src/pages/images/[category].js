@@ -883,7 +883,7 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=tomatoes&sort=best&license=rf%2Crm',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=banana&sort=best&license=rf%2Crm',
           shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=tomatoes',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
@@ -974,8 +974,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=food&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=food',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -987,8 +987,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=food&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=food&sort=best&license=rf%2Crm',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -1000,8 +1000,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=banana&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=milk',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -1013,8 +1013,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=soda&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=soda',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -1029,8 +1029,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=vegetation&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=vegetation',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -1042,8 +1042,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=vegetation&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=vegetation',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -1055,8 +1055,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=vegetation&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=vegetation',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -1068,8 +1068,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=vegetation&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=vegetation',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -1081,8 +1081,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=vegetation&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=vegetation',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -1094,8 +1094,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=vegetation&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=vegetation',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -1107,8 +1107,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=vegetation&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=vegetation',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -1120,8 +1120,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=rock&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=vegetation',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -1133,8 +1133,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=vegetation&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=vegetation',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -1146,8 +1146,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=vegetation&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=vegetation',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -1159,8 +1159,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=vegetation&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=vegetation',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -1172,8 +1172,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=vegetation&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=vegetation',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -1188,8 +1188,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=texture&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=texture',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -1201,8 +1201,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=texture&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=texture',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -1214,8 +1214,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=texture&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=texture',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -1227,8 +1227,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=texture&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=texture',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180K',
         }
@@ -1240,8 +1240,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=texture&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=texture',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -1253,8 +1253,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=texture&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=texture',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -1266,8 +1266,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=texture&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=texture',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -1279,8 +1279,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=texture&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=texture',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -1292,8 +1292,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=texture&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=texture',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -1305,8 +1305,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=texture&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=texture',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -1318,8 +1318,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=texture&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=texture',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -1331,8 +1331,8 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=texture&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=texture',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
@@ -1506,10 +1506,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.shutterstock.com/g/pencilsmoka?q=phone%20car',
+          shutterstock: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=phone&sort=best&license=rf%2Crm',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1519,10 +1519,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=fashion%20design&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=fashion%20designer',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1532,10 +1532,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=tailor&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=tailor',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1545,10 +1545,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=sewing%20machine&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=sewing%20machine',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1558,10 +1558,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=corporate&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=office',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1571,10 +1571,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=taking%20calls&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=yellow%20background',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1584,10 +1584,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=stylist%20phone&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=stylist%20phone',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1597,10 +1597,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=afro%20hair%20phone&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=afro%20hair',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1610,10 +1610,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=business%20owner&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=business',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1623,10 +1623,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=chess&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=game',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1636,10 +1636,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=chess&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=sport',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1649,10 +1649,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=shopping%20bag&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=shopping',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       }
     ],
@@ -1665,10 +1665,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=bible&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=bible',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1678,10 +1678,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=bokeh&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=bokeh',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1691,10 +1691,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?phrase=church&artistexact=olasunkanmi%20ariyo&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=pray',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1704,10 +1704,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=praise&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=church',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1717,10 +1717,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=praise&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=church',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1730,10 +1730,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=praise&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=church',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1743,10 +1743,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=praise&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=church',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1756,10 +1756,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=praise&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=church',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1769,10 +1769,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=praise&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=church',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1782,10 +1782,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=praise&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=churchINSERT_SHUTTERSTOCK_LINK',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1795,10 +1795,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=praise&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=church',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1808,10 +1808,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=praise&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=church',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       }
     ],
@@ -1824,10 +1824,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=travel&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=travel',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1837,10 +1837,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=travel&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=travel',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1850,10 +1850,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=travel&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=travel',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1863,10 +1863,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=travel&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=travel',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1876,10 +1876,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=travel&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=travel',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1889,10 +1889,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=travel&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=travel',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1902,10 +1902,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=travel&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=travel',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1915,10 +1915,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=travel&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=travel',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1928,10 +1928,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=travel&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=travel',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1941,10 +1941,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=travel&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=travel',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1954,10 +1954,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=travel&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=travel',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -1967,10 +1967,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=travel&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=travel',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       }
     ],
@@ -1979,92 +1979,92 @@ export async function getStaticProps({ params }) {
       {
         id: 'creative-1',
         title: 'Creative 1',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2149391499/photo/financial-technology-creative-image.jpg?s=612x612&w=0&k=20&c=WwaYCGTt383AQGXzyMHTl6GCpEUm4fr_0-CveTmydWo=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=travel',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
         id: 'creative-2',
         title: 'Creative 2',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2149391390/photo/financial-technology-creative-image.jpg?s=612x612&w=0&k=20&c=ufJm39onzVYyB-_F6e4N7rFTiUMLYisLmypg0vad6Zo=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=travel',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
         id: 'creative-3',
         title: 'Creative 3',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2149391494/photo/financial-technology-creative-image.jpg?s=612x612&w=0&k=20&c=JY9oh0d7LA06WIZF-PGLRSmloRNkVGoRTFVGIWMparQ=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
         id: 'creative-4',
         title: 'Creative 4',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2149391428/photo/financial-technology-creative-image.jpg?s=612x612&w=0&k=20&c=aXzVcAiaZsRjqHVu3PO4STnz_5R8zNQR2OZZcu25s3I=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
         id: 'creative-5',
         title: 'Creative 5',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2222477569/photo/circle-of-protection-over-fire-outbreak.jpg?s=612x612&w=0&k=20&c=5zuzg2Vr1j_zLz6qydEYkmXIZ7exsdqIpc73PtvMeP0=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
         id: 'creative-6',
         title: 'Creative 6',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2246833040/photo/connection.jpg?s=612x612&w=0&k=20&c=YE3nHhgv7JygPbgD11AHJDeSIkRxzE9jf1ukVC4po70=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
         id: 'creative-7',
         title: 'Creative 7',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2149142125/photo/financial-technology-creative-image.jpg?s=612x612&w=0&k=20&c=_mLqwEcZk5ID8VGnqWjZwxok20hjtGQA0jpPkeiYxRA=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -2076,60 +2076,60 @@ export async function getStaticProps({ params }) {
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
         id: 'creative-9',
         title: 'Creative 9',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2149391486/photo/financial-technology-creative-image.jpg?s=612x612&w=0&k=20&c=G48wHBHFw4ZyuMOXtGCk6qC80jQitB0NTDyzF0Lnt1c=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
         id: 'creative-10',
         title: 'Creative 10',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2149391461/photo/financial-technology-creative-image.jpg?s=612x612&w=0&k=20&c=QMIwlmrF7WA_Ko0lHcexBhQQcRtBjqLGPX7FtArqfDI=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
         id: 'creative-11',
         title: 'Creative 11',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2278964657/photo/colourful-bokeh-light-effect.jpg?s=612x612&w=0&k=20&c=f86WEKYZQomZjsnlvCWHdko7bBlKbbM8wlZDPllsRRk=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
         id: 'creative-12',
         title: 'Creative 12',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2159069044/photo/blue-note-for-compliance-campaign.jpg?s=612x612&w=0&k=20&c=L8vpETSMd8y6ONq3GgWGURwc0Dz0iBrKQJEd3aZvhR0=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       }
     ]
