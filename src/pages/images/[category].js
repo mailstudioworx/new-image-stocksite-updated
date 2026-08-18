@@ -552,10 +552,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=aerial%20lagos&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=aerial',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -565,10 +565,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=aerial%20lagos&sort=best&license=rf%2Crm&page=2',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=banks',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -578,10 +578,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=lekki&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=bridge',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -591,10 +591,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=ocean&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=ocean',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -604,10 +604,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=lagos%20island&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=lagos%20island',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -617,10 +617,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=aerial%20ogun&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=cities',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -630,10 +630,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=ondo&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=ondo',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -643,10 +643,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=festival%20aerial&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=bird',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -656,10 +656,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=theatre&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=building',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -669,10 +669,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=ondo&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=green',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -682,10 +682,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=landmarks&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=landmark',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -695,10 +695,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=dock&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=dock',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       }
     ],
@@ -714,7 +714,7 @@ export async function getStaticProps({ params }) {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
           adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          pond5: 'INSERT_POND5_LINK',
         }
       },
       {
@@ -727,7 +727,7 @@ export async function getStaticProps({ params }) {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
           adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          pond5: 'INSERT_POND5_LINK',
         }
       },
       {
@@ -740,7 +740,7 @@ export async function getStaticProps({ params }) {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
           adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          pond5: 'INSERT_POND5_LINK',
         }
       },
       {
@@ -753,7 +753,7 @@ export async function getStaticProps({ params }) {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
           adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          pond5: 'INSERT_POND5_LINK',
         }
       },
       {
@@ -766,7 +766,7 @@ export async function getStaticProps({ params }) {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
           adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          pond5: 'INSERT_POND5_LINK',
         }
       },
       {
@@ -779,7 +779,7 @@ export async function getStaticProps({ params }) {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
           adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          pond5: 'INSERT_POND5_LINK',
         }
       },
       {
@@ -792,7 +792,7 @@ export async function getStaticProps({ params }) {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
           adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          pond5: 'INSERT_POND5_LINK',
         }
       },
       {
@@ -805,7 +805,7 @@ export async function getStaticProps({ params }) {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
           adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          pond5: 'INSERT_POND5_LINK',
         }
       },
       {
@@ -818,7 +818,7 @@ export async function getStaticProps({ params }) {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
           adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          pond5: 'INSERT_POND5_LINK',
         }
       },
       {
@@ -831,7 +831,7 @@ export async function getStaticProps({ params }) {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
           adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          pond5: 'INSERT_POND5_LINK',
         }
       },
       {
@@ -844,7 +844,7 @@ export async function getStaticProps({ params }) {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
           adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          pond5: 'INSERT_POND5_LINK',
         }
       },
       {
@@ -857,7 +857,7 @@ export async function getStaticProps({ params }) {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
           adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          pond5: 'INSERT_POND5_LINK',
         }
       }
     ],
