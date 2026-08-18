@@ -711,10 +711,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=using%20mobile%20phone&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=using%20mobile%20phone',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -724,10 +724,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=work%20from%20home&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=work',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -737,10 +737,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=pressing%20phone&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=mobile%20phone',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -750,10 +750,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=call&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=car%20call',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180INSERT_POND5_LINK',
         }
       },
       {
@@ -763,10 +763,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=writing&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=writingINSERT_SHUTTERSTOCK_LINK',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -776,10 +776,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=happy%20call&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=happy%20call',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -789,10 +789,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=taking%20notes&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -802,10 +802,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=holding%20phone&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=holding%20phone',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861bTOCK_LINK',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -815,10 +815,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=cable&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=dish',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -830,8 +830,8 @@ export async function getStaticProps({ params }) {
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -841,10 +841,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=television&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=dish',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       },
       {
@@ -854,10 +854,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/image?artistexact=olasunkanmi%20ariyo&phrase=electricity&sort=best&license=rf%2Crm',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=electricity',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861b',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180',
         }
       }
     ],
