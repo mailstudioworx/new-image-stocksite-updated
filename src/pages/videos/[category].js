@@ -252,23 +252,23 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20transportation&sort=best&suppressfamilycorrection=true&license=rf%2Crr',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=transportation',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
         id: 'transportation-2',
         title: 'Transportation 2',
-        thumb: 'https://media.gettyimages.com/id/2283180378/video/train-track-and-train-station.mp4?s=mp4-640x640-gi&k=20&c=PlrhPrGiGckrap3fr-MFyc_-GxWTR0p931cOr9s_jww=',
+        thumb: 'https://media.gettyimages.com/id/2271962955/video/transportation-in-urban-city.jpg?s=640x640&k=20&c=5GdVg0vS4tFk7Vk-LAanXzjyKfLReb69FkJcEkwz14M=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20transportation&sort=best&suppressfamilycorrection=true&license=rf%2Crr',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=transportation',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -278,10 +278,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20transportation&sort=best&suppressfamilycorrection=true&license=rf%2Crr',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=transportation',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -291,10 +291,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20transportation&sort=best&suppressfamilycorrection=true&license=rf%2CrrNK',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=transportation',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -304,10 +304,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20transportation&sort=best&suppressfamilycorrection=true&license=rf%2CrrNK',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=transportation',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -317,10 +317,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20transportation&sort=best&suppressfamilycorrection=true&license=rf%2CrrNK',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=transportation',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -330,10 +330,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20transportation&sort=best&suppressfamilycorrection=true&license=rf%2CrrNK',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=transportation',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -343,10 +343,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20transportation&sort=best&suppressfamilycorrection=true&license=rf%2CrrNK',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=transportation',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -356,10 +356,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20transportation&sort=best&suppressfamilycorrection=true&license=rf%2CrrNK',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=transportation',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -369,10 +369,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20transportation&sort=best&suppressfamilycorrection=true&license=rf%2CrrNK',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=transportation',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -382,10 +382,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20transportation&sort=best&suppressfamilycorrection=true&license=rf%2CrrNK',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=transportation',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -395,10 +395,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20transportation&sort=best&suppressfamilycorrection=true&license=rf%2CrrNK',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=transportation',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       }
     ],
