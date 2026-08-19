@@ -415,10 +415,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.com/search/2/film?phrase=ariyo%20olasunkanmi%20market&sort=best&license=rf%2Crr',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=market',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -428,10 +428,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.com/search/2/film?phrase=ariyo%20olasunkanmi%20agege&sort=best&license=rf%2Crr',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=market',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -441,10 +441,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.com/search/2/film?phrase=ariyo%20olasunkanmi%20agege&sort=best&license=rf%2Crr',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=market',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -454,10 +454,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.com/search/2/film?phrase=ariyo%20olasunkanmi%20alagbole&sort=best&license=rf%2Crr',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=market',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -467,10 +467,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.com/search/2/film?phrase=ariyo%20olasunkanmi%20alagbole&sort=best&license=rf%2Crr',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=market',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -480,10 +480,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.com/search/2/film?phrase=ariyo%20olasunkanmi%20mile%2012&sort=best&license=rf%2Crr',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=market',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -493,10 +493,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.com/search/2/film?phrase=ariyo%20olasunkanmi%20mile%2012&sort=best&license=rf%2Crr',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=market',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -506,10 +506,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.com/search/2/film?phrase=ariyo%20olasunkanmi%20mile%2012&sort=best&license=rf%2Crr',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=market',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -519,10 +519,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.com/search/2/film?phrase=ariyo%20olasunkanmi%20mile%2012&sort=best&license=rf%2Crr',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=market',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -532,10 +532,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.com/search/2/film?phrase=ariyo%20olasunkanmi%20mile%2012&sort=best&license=rf%2Crr',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=market',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -545,10 +545,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.com/search/2/film?phrase=ariyo%20olasunkanmi%20mile%2012&sort=best&license=rf%2Crr',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=market',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -558,10 +558,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.com/search/2/film?phrase=ariyo%20olasunkanmi%20mile%2012&sort=best&license=rf%2Crr',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=market',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       }
     ],
