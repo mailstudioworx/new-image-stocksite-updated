@@ -741,7 +741,7 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20creative-traditional-festival-called-eyo-in-lagos-nigeria&sort=best&license=rf%2Crr',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
@@ -754,7 +754,7 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20creative-cultural-celebration-of-igbo-tribe&sort=best&license=rf%2Crr',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
@@ -767,7 +767,7 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20cultural-celebration-of-igbo-tribe&sort=best&license=rf%2Crr',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
@@ -780,7 +780,7 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20cultural-celebration-of-igbo-tribe&sort=best&license=rf%2Crr',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
@@ -793,7 +793,7 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20cultural-celebration-of-igbo-tribe&sort=best&license=rf%2Crr',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
@@ -806,7 +806,7 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20fanti&sort=best&license=rf%2CrrK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
@@ -819,7 +819,7 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20annual-colourful-ancient-festival&sort=best&license=rf%2Crr',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
@@ -832,7 +832,7 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20acreative-traditional-festival-called-eyo-in-lagos-nigeria&sort=best&license=rf%2CrrK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
@@ -845,7 +845,7 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'xxxx',
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20acreative%20group-of-african-people-drummers-and-performers&sort=best&license=rf%2Crr',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
@@ -858,7 +858,7 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20annual-colourful-ancient-festival&sort=best&license=rf%2Crr',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
@@ -871,7 +871,7 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'xxxxxx',
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20cultural-celebration-of-igbo-tribe&sort=best&license=rf%2Crr',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
@@ -884,7 +884,7 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20group-of-african-people-drummers-and-performers&sort=best&license=rf%2Crr',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
