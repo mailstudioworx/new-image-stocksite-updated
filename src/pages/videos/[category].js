@@ -822,7 +822,7 @@ export async function getStaticProps({ params }) {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
-          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',K'
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
