@@ -904,10 +904,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20beach%20lagos&sort=best&license=rf%2Crr',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=nature',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -917,10 +917,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20beach%20lagos&sort=best&license=rf%2Crr',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=https%3A%2F%2Fwww.shutterstock.com%2Fg%2Fpencilsmoka%3Fq%3Daerial-view-of-a-beach-in-lagos-nigeria',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -930,10 +930,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20beach%20lagos&sort=best&license=rf%2Crr',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=beach',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -943,10 +943,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20beach%20lagos&sort=best&license=rf%2Crr',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=aerial&page=2',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -956,10 +956,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20beach%20lagos&sort=best&license=rf%2Crr',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=nature',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -969,10 +969,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20lagos%20skyline&sort=best&license=rf%2Crr',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=aerial&page=2',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -982,10 +982,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20ondo%20nigeria&sort=best&license=rf%2Crr',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=aerial&page=2',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -995,10 +995,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20landscape%20of%20skylines%20lagos%20nigeria&sort=best&license=rf%2Crr',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=aerial&page=2',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -1008,10 +1008,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=bats-habitat-in-lagos&sort=best&license=rf%2Crr',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=aerial&page=2',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -1021,10 +1021,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20aerial%20perspective%20of%20growth%20and%20development%20lagos%20nigeria&sort=best&license=rf%2Crr',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video?q=aerial&page=2',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -1034,10 +1034,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'Ihttps://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20outdoor%20in%20ekiti%20nigeria&sort=best&license=rf%2Crr',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -1047,10 +1047,10 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
-          shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          getty: 'ariyo olasunkanmi horizontal video of green vegetation lagos nigeria',
+          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video',
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       }
     ],
