@@ -737,157 +737,157 @@ export async function getStaticProps({ params }) {
       {
         id: 'festival-1',
         title: 'Festival 1',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2253739100/video/creative-traditional-festival-called-eyo-in-lagos-nigeria.jpg?s=640x640&k=20&c=u0tUJK1MfluvizADtLn4fF4GTltVzSdqAZO-6m8x9m8=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
         id: 'festival-2',
         title: 'Festival 2',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2282937992/video/cultural-celebration-of-igbo-tribe.jpg?s=640x640&k=20&c=N-1uNKnBecMnVv6PRW16WnfLwE7G-eV7roc9ecT-xes=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
         id: 'festival-3',
         title: 'Festival 3',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2282906115/video/cultural-celebration-of-igbo-tribe.jpg?s=640x640&k=20&c=wlAQEOfyC6YlZpL6QWa-i5BNesMa0uZJQ66nMYdLb_8=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
         id: 'festival-4',
         title: 'Festival 4',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2282939801/video/cultural-celebration-of-igbo-tribe.jpg?s=640x640&k=20&c=GqDHwRvfQTLbRSCfDRJeKVUiigj0yY3BS8-1rPv4x3w=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
         id: 'festival-5',
         title: 'Festival 5',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2282939245/video/cultural-celebration-of-igbo-tribe.jpg?s=640x640&k=20&c=r08P6jvjt-mft8nfOoRu_pIozIjTDqBY7acKgzduBGc=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
         id: 'festival-6',
         title: 'Festival 6',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2270204770/video/afro-brazilian-traditions.jpg?s=640x640&k=20&c=oF-yARb6JBf82Cxa55gOWqfeicypRoUu9trvu2tjccI=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
         id: 'festival-7',
         title: 'Festival 7',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2222373644/video/annual-colourful-ancient-festival.jpg?s=640x640&k=20&c=FT2yUqmF2pGYAPnrJRF-vo3FaS4t_oDOeitUTwewylc=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',K'
         },
       },
       {
         id: 'festival-8',
         title: 'Festival 8',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2253742932/video/creative-traditional-festival-called-eyo-in-lagos-nigeria.jpg?s=640x640&k=20&c=lJHLeVw489ISmaXKY8qHW1jklZ6Kfa2VwEyaw7ml1Ak=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
         id: 'festival-9',
         title: 'Festival 9',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2234309609/video/group-of-african-people-drummers-and-performers.jpg?s=640x640&k=20&c=LgvsdaEpQlNghhR37zgcddM7785Jgb969c67AGllLI0=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
+          getty: 'xxxx',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
         id: 'festival-10',
         title: 'Festival 10',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2222372277/video/annual-colourful-ancient-festival.jpg?s=640x640&k=20&c=admFSdtHq1QgD3mbUgNCV4A32O1c0vmd4IS5xCZ_aMo=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
         id: 'festival-11',
         title: 'Festival 11',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2282984991/video/cultural-celebration-of-igbo-tribe.jpg?s=640x640&k=20&c=JICmcyUmSPC80NNEv7GmJ9w6uU8eTPW1V5-JKpMwEjM=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'INSERT_GETTY_LINK',
+          getty: 'xxxxxx',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
         id: 'festival-12',
         title: 'Festival 12',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2234309388/video/group-of-african-people-drummers-and-performers.jpg?s=640x640&k=20&c=89x7nyZll0C1rtyyGXKxKExm-U-gekvJgOClaMLQeI8=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       }
     ],
@@ -1069,8 +1069,8 @@ export async function getStaticProps({ params }) {
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -1082,8 +1082,8 @@ export async function getStaticProps({ params }) {
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -1095,8 +1095,8 @@ export async function getStaticProps({ params }) {
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -1108,8 +1108,8 @@ export async function getStaticProps({ params }) {
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -1121,8 +1121,8 @@ export async function getStaticProps({ params }) {
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -1134,8 +1134,8 @@ export async function getStaticProps({ params }) {
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -1147,8 +1147,8 @@ export async function getStaticProps({ params }) {
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -1160,8 +1160,8 @@ export async function getStaticProps({ params }) {
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -1173,8 +1173,8 @@ export async function getStaticProps({ params }) {
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -1186,8 +1186,8 @@ export async function getStaticProps({ params }) {
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -1199,8 +1199,8 @@ export async function getStaticProps({ params }) {
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -1212,8 +1212,8 @@ export async function getStaticProps({ params }) {
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       }
     ],
@@ -1232,8 +1232,8 @@ export async function getStaticProps({ params }) {
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -1245,8 +1245,8 @@ export async function getStaticProps({ params }) {
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -1258,8 +1258,8 @@ export async function getStaticProps({ params }) {
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -1271,8 +1271,8 @@ export async function getStaticProps({ params }) {
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -1284,8 +1284,8 @@ export async function getStaticProps({ params }) {
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -1297,8 +1297,8 @@ export async function getStaticProps({ params }) {
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -1310,8 +1310,8 @@ export async function getStaticProps({ params }) {
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -1323,8 +1323,8 @@ export async function getStaticProps({ params }) {
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -1336,8 +1336,8 @@ export async function getStaticProps({ params }) {
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -1349,8 +1349,8 @@ export async function getStaticProps({ params }) {
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -1362,8 +1362,8 @@ export async function getStaticProps({ params }) {
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       },
       {
@@ -1375,8 +1375,8 @@ export async function getStaticProps({ params }) {
         platformLinks: {
           getty: 'INSERT_GETTY_LINK',
           shutterstock: 'INSERT_SHUTTERSTOCK_LINK',
-          adobe: 'INSERT_ADOBE_STOCK_LINK',
-          pond5: 'INSERT_POND5_LINK'
+          adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
+          pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',
         },
       }
     ]
