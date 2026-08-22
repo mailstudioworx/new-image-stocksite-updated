@@ -5,7 +5,9 @@ export function getMetaTags(
   type = 'website',
   url = null
 ) {
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.africanphotosandvideos.com.ng';
+  const siteUrl =
+    process.env.NEXT_PUBLIC_SITE_URL ||
+    'https://www.africanphotosandvideos.com.ng';
 
   return {
     title: title || 'African Photos and Videos',
@@ -19,7 +21,9 @@ export function getMetaTags(
 }
 
 export function generateStructuredData(type, data = {}) {
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.africanphotosandvideos.com.ng';
+  const siteUrl =
+    process.env.NEXT_PUBLIC_SITE_URL ||
+    'https://www.africanphotosandvideos.com.ng';
 
   const typeMap = {
     Blog: 'Blog',

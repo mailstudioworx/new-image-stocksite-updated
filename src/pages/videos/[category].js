@@ -1373,7 +1373,7 @@ export async function getStaticProps({ params }) {
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
         platformLinks: {
-          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20aerial%20view%20of%20lagos%20island&sort=best&license=rf%2Crr,
+          getty: 'https://www.gettyimages.ie/search/2/film?phrase=ariyo%20olasunkanmi%20aerial%20view%20of%20lagos%20island&sort=best&license=rf%2Crr',
           shutterstock: 'https://www.shutterstock.com/g/pencilsmoka/video',
           adobe: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba',
           pond5: 'https://www.pond5.com/artist/sunkanmi38180?tab=photo&dd_referrer=',

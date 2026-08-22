@@ -8,12 +8,17 @@ function parseFrontMatter(fileContent) {
   const match = fileContent.match(/^---\s*\n([\s\S]*?)\n---\s*\n([\s\S]*)$/);
 
   if (!match) {
-    return { data: {}, content: fileContent };
+    return {
+      data: {},
+      content: fileContent
+    };
   }
 
   const frontMatter = {};
+
   match[1].split('\n').forEach((line) => {
     const separator = line.indexOf(':');
+
     if (separator === -1) return;
 
     const key = line.slice(0, separator).trim();
@@ -38,6 +43,7 @@ function parseFrontMatter(fileContent) {
 function readPostFile(filename) {
   const filePath = path.join(postsDirectory, filename);
   const source = fs.readFileSync(filePath, 'utf8');
+
   const { data, content } = parseFrontMatter(source);
 
   return {
@@ -95,7 +101,10 @@ export function getBlogPost(slug) {
 
   post.relatedPosts = allPosts
     .filter((item) => item.slug !== post.slug)
-    .filter((item) => !post.category || item.category === post.category)
+    .filter(
+      (item) =>
+        !post.category || item.category === post.category
+    )
     .slice(0, 3)
     .map(({ slug: relatedSlug, title, excerpt }) => ({
       slug: relatedSlug,
