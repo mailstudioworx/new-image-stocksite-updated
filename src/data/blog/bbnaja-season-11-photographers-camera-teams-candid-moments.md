@@ -4,7 +4,7 @@ date: "2026-08-23"
 author: "African Photos & Videos"
 category: "Photography & Video Production"
 excerpt: "Behind every viral BBNaija moment is a visual storytelling challenge. Discover how photographers anticipate, observe and capture the candid moments that define reality television."
-image: "/images/blog/bNeche-BBNaija-Season11.jpeg"
+image: "/images/blog/Neche-BBNaija-Season11.jpeg"
 ---
 
 # BBNaija Season 11 Today: The Untold Visual Story Behind Every Viral Moment
