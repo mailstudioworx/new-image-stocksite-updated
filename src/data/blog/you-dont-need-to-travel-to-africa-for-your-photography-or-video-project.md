@@ -4,7 +4,7 @@ date: "2026-08-15"
 author: "Ariyo Olasunkanmi"
 category: "Photography & Video Production"
 excerpt: "Planning a photography or video project in Africa does not always mean you need to travel to the continent. Discover how working with experienced local photographers and videographers can reduce production costs, simplify logistics, improve efficiency, and deliver authentic African visual content."
-image: "/images/blog/africa-photography-project.jpg"
+image: "/images/blog/Dont-Travel-to-Africa-for- projects.jpeg"
 ---
 
 ## You Don’t Need to Travel to Africa for Your Photography or Video Project
