@@ -4,7 +4,7 @@ date: "2026-08-25"
 author: "Olasunkanmi Ariyo"
 category: "Technology"
 excerpt: "Gen Z is driving the upgrade cycle to iPhone 18 Pro with unprecedented enthusiasm. Discover why this generation values the latest Apple technology, the key features attracting young consumers, and how the iPhone 18 Pro meets the demands of digital natives who create, share and connect online."
-image: "/images/blog/gen-z-iphone-18-pro-upgrade.jpg"
+image: "/images/blog/gen-z-iPhone-18-Pro-upgrade.jpg"
 ---
 
 # Gen Z's Upgrade to iPhone 18 Pro: Why This Generation Is Choosing Apple's Latest Flagship
