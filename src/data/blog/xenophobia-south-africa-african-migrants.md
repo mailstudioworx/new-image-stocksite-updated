@@ -4,7 +4,7 @@ date: "2026-08-25"
 author: "Olasunkanmi Ariyo"
 category: "African News"
 excerpt: "South Africa is once again facing concerns over xenophobia and anti-immigrant tensions affecting African migrants and foreign nationals. This article examines the causes, human impact, government response and the importance of responsible visual storytelling during this sensitive period."
-image: "/images/blog/xenophobia-south-africa-african-migrants.jpg"
+image: "/images/blog/Xenophobia-in-south-africa.jpg"
 ---
 
 # Xenophobia in South Africa: The Current Crisis Facing African Migrants
