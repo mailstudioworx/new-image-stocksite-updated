@@ -4,7 +4,7 @@ date: "2026-08-15"
 author: "Ariyo Olasunkanmi"
 category: "Photography & Video Production"
 excerpt: "In today's visual-first world, authentic imagery makes all the difference. Whether you're producing a documentary, designing a marketing campaign, publishing a magazine, creating educational materials, or building a brand, finding genuine Nigerian and African visuals can be challenging. At African Photos and Videos, we solve that problem by carefully curating high-quality Nigerian images and videos that showcase the country's people, culture, landscapes, businesses, traditions, and everyday life."
-image: "/images/blog/africa-photography-market.jpg"
+image: "/images/blog/africa-photography-project.jpg"
 ---
 
 Our growing collection at www.africanphotosandvideos.com.ng connects creatives, businesses, media organizations, NGOs, publishers, tourism boards, filmmakers, advertisers, and researchers with authentic visual content that represents Nigeria from a local perspective.
