@@ -1,0 +1,13 @@
+name: IndexNow Action
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  indexnow:
+    runs-on: ubuntu-latest
+    steps:
+      - name: IndexNow Action
+        uses: bojieyang/indexnow-action@v3.0.0
