@@ -7,7 +7,7 @@ excerpt: "The Nigerian film industry has lost one of its most revered standard-b
 image: "/images/blog/Taiwo-Babatunde-Hassan-Ogogo.jpg"
 ---
 
-# Honoring the Life and Cinematic Legacy of Taiwo Hassan (Ogogo)
+
 
 The Nigerian film industry has lost one of its most revered standard-bearers. Taiwo Babatunde Hassan, affectionately known to millions of cinema lovers around the world simply as "Ogogo," was more than just a brilliant actor—he was a towering cultural pillar who defined an era of Yoruba cinema and helped lay the foundation for modern Nollywood.
 

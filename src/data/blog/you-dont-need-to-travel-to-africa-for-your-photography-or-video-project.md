@@ -7,7 +7,7 @@ excerpt: "Planning a photography or video project in Africa does not always mean
 image: "/images/blog/Dont-Travel-to-Africa-for- projects.jpeg"
 ---
 
-## You Don’t Need to Travel to Africa for Your Photography or Video Project
+
 
 Africa is one of the most visually diverse places in the world.
 
