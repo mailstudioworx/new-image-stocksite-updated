@@ -139,16 +139,28 @@ From individual products to complete collections, we can help transform your pro
 
 ### Get in Touch with Studioworx
 
-📸 **Product Photography**  
-🎥 **Product Video**  
-📱 **Social Media Content**  
-🛍️ **E-commerce Product Visuals**  
+📸 **Product Photography**
+
+🎥 **Product Video**
+
+📱 **Social Media Content**
+
+🛍️ **E-commerce Product Visuals**
+
 📢 **Advertising Campaign Content**
 
-**[View Our Instagram Portfolio →](https://www.instagram.com/studioworx)**
+---
 
-**[Chat with Us on WhatsApp →](https://wa.me/2348140477890)**
+**Phone:** +234 814 047 7890
 
-**[Call Studioworx →](tel:+2348140477890)**
+**WhatsApp:** +234 814 047 7890
 
-**[Send Us an Email →](mailto:mailstudiworx@gmail.com)**
+**Email:** mailstudiworx@gmail.com
+
+**Instagram Portfolio:** [View Our Instagram Portfolio →](https://www.instagram.com/studioworx){:target="_blank"}
+
+---
+
+**Your product has a story to tell.**
+
+**Let Studioworx help you tell it visually.**
