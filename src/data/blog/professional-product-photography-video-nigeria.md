@@ -157,7 +157,9 @@ From individual products to complete collections, we can help transform your pro
 
 **Email:** mailstudioworx@gmail.com
 
-**Instagram Portfolio:** [View Our Instagram Portfolio →](https://www.instagram.com/studioworx){:target="_blank"}
+**Instagram Portfolio:** [View Our Instagram Portfolio →]<a href="https://www.instagram.com/studioworx" target="_blank" rel="noopener noreferrer">
+View Our Instagram Portfolio →
+</a>
 
 ---
 
