@@ -155,7 +155,7 @@ From individual products to complete collections, we can help transform your pro
 
 **WhatsApp:** +234 814 047 7890
 
-**Email:** mailstudiworx@gmail.com
+**Email:** mailstudioworx@gmail.com
 
 **Instagram Portfolio:** [View Our Instagram Portfolio →](https://www.instagram.com/studioworx){:target="_blank"}
 
