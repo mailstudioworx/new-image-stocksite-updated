@@ -7,7 +7,7 @@ excerpt: "South Africa is once again facing concerns over xenophobia and anti-im
 image: "/images/blog/Xenophobia-in-south-africa.jpg"
 ---
 
-# Xenophobia in South Africa: The Current Crisis Facing African Migrants
+
 
 South Africa is once again facing serious concerns over xenophobia, anti-immigrant sentiment and tensions involving foreign nationals living and working in the country.
 
