@@ -138,6 +138,7 @@ If you are a Nigerian business owner looking for professional product photograph
 From individual products to complete collections, we can help transform your products into compelling visual content for your marketing and sales channels.
 
 **Explore Studioworx on Instagram**
+https://www.instagram.com/studioworx
 
 See our work, discover what we can create for your brand, and send us a message to discuss your next product photography or video project.
 
