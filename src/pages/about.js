@@ -23,15 +23,18 @@ export default function AboutPage() {
         <meta property="og:url" content="https://www.africanphotosandvideos.com.ng/about" />
         <meta name="twitter:title" content={pageTitle} />
         <meta name="twitter:description" content={pageDescription} />
-        <script type="application/ld+json">
-          {JSON.stringify({
-            '@context': 'https://schema.org',
-            '@type': 'AboutPage',
-            'name': 'About',
-            'description': pageDescription,
-            'url': 'https://www.africanphotosandvideos.com.ng/about'
-          })}
-        </script>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'AboutPage',
+              name: 'About',
+              description: pageDescription,
+              url: 'https://www.africanphotosandvideos.com.ng/about'
+            })
+          }}
+        />
       </Head>
       <Layout>
         <Breadcrumb items={breadcrumbs} />
