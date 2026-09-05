@@ -1,0 +1,3 @@
+Merge branch 'fix/jsonld-dangerouslysetinnerhtml' into main
+
+- Applied JSON-LD fixes to several pages to use dangerouslySetInnerHTML
