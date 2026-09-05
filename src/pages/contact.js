@@ -23,15 +23,18 @@ export default function ContactPage() {
         <meta property="og:url" content="https://www.africanphotosandvideos.com.ng/contact" />
         <meta name="twitter:title" content={pageTitle} />
         <meta name="twitter:description" content={pageDescription} />
-        <script type="application/ld+json">
-          {JSON.stringify({
-            '@context': 'https://schema.org',
-            '@type': 'ContactPage',
-            'name': 'Contact',
-            'description': pageDescription,
-            'url': 'https://www.africanphotosandvideos.com.ng/contact'
-          })}
-        </script>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'ContactPage',
+              name: 'Contact',
+              description: pageDescription,
+              url: 'https://www.africanphotosandvideos.com.ng/contact'
+            })
+          }}
+        />
       </Head>
       <Layout>
         <Breadcrumb items={breadcrumbs} />

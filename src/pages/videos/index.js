@@ -18,15 +18,18 @@ export default function VideosHome() {
         <meta property="og:url" content="https://www.africanphotosandvideos.com.ng/videos" />
         <meta name="twitter:title" content={pageTitle} />
         <meta name="twitter:description" content={pageDescription} />
-        <script type="application/ld+json">
-          {JSON.stringify({
-            '@context': 'https://schema.org',
-            '@type': 'CollectionPage',
-            'name': 'Stock Videos',
-            'description': pageDescription,
-            'url': 'https://www.africanphotosandvideos.com.ng/videos'
-          })}
-        </script>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'CollectionPage',
+              name: 'Stock Videos',
+              description: pageDescription,
+              url: 'https://www.africanphotosandvideos.com.ng/videos'
+            })
+          }}
+        />
       </Head>
       <Layout>
         <GalleryIndex categories={videoCategories} type="videos" />

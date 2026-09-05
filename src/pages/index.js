@@ -20,23 +20,26 @@ export default function Home() {
         <meta name="twitter:title" content={pageTitle} />
         <meta name="twitter:description" content={pageDescription} />
         <meta name="twitter:image" content="https://www.africanphotosandvideos.com.ng/og-image.jpg" />
-        <script type="application/ld+json">
-          {JSON.stringify({
-            '@context': 'https://schema.org',
-            '@type': 'WebSite',
-            'name': 'African Photos and Videos',
-            'url': 'https://www.africanphotosandvideos.com.ng',
-            'description': pageDescription,
-            'potentialAction': {
-              '@type': 'SearchAction',
-              'target': {
-                '@type': 'EntryPoint',
-                'urlTemplate': 'https://www.africanphotosandvideos.com.ng/search?q={search_term_string}'
-              },
-              'query-input': 'required name=search_term_string'
-            }
-          })}
-        </script>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'WebSite',
+              name: 'African Photos and Videos',
+              url: 'https://www.africanphotosandvideos.com.ng',
+              description: pageDescription,
+              potentialAction: {
+                '@type': 'SearchAction',
+                target: {
+                  '@type': 'EntryPoint',
+                  urlTemplate: 'https://www.africanphotosandvideos.com.ng/search?q={search_term_string}'
+                },
+                'query-input': 'required name=search_term_string'
+              }
+            })
+          }}
+        />
       </Head>
       <Layout>
         <Hero />

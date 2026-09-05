@@ -18,15 +18,18 @@ export default function ImagesHome() {
         <meta property="og:url" content="https://www.africanphotosandvideos.com.ng/images" />
         <meta name="twitter:title" content={pageTitle} />
         <meta name="twitter:description" content={pageDescription} />
-        <script type="application/ld+json">
-          {JSON.stringify({
-            '@context': 'https://schema.org',
-            '@type': 'CollectionPage',
-            'name': 'Stock Photography',
-            'description': pageDescription,
-            'url': 'https://www.africanphotosandvideos.com.ng/images'
-          })}
-        </script>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'CollectionPage',
+              name: 'Stock Photography',
+              description: pageDescription,
+              url: 'https://www.africanphotosandvideos.com.ng/images'
+            })
+          }}
+        />
       </Head>
       <Layout>
         <GalleryIndex categories={imageCategories} type="images" />
