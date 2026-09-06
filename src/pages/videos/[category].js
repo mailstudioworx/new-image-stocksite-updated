@@ -91,4 +91,4 @@ export async function getStaticProps({ params }) {
         thumb: 'https://media.gettyimages.com/id/1425841841/video/lagos-island-street.jpg?s=640x640&k=20&c=cDwtwla0cPLMGePBivM1leej2aC-f8nKEAAM1CpQ7OE=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
-        platformLinks: {
+        platformLinks: {#}
