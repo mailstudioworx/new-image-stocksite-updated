@@ -11,3 +11,5 @@ jobs:
     steps:
       - name: IndexNow Action
         uses: bojieyang/indexnow-action@v3.0.0
+        with:
+          sitemap-location: 'https://mailstudioworx.github.io/new-image-stocksite-updated/sitemap.xml'
