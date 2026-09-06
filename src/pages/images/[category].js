@@ -3,6 +3,7 @@ import Layout from '@/components/Layout';
 import Breadcrumb from '@/components/Breadcrumb';
 import CategoryGallery from '@/components/CategoryGallery';
 import { imageCategories, getImageCategory } from '@/data/categories';
+import { platformLinks } from '@/data/platformLinks';
 
 export default function ImageCategory({ category, images }) {
   const pageTitle = `${category.title} Stock Photos | African Photos and Videos`;
@@ -27,6 +28,7 @@ export default function ImageCategory({ category, images }) {
         <meta name="twitter:description" content={pageDescription} />
         <script
           type="application/ld+json"
+          suppressHydrationWarning
           dangerouslySetInnerHTML={{
             __html: JSON.stringify({
               '@context': 'https://schema.org',
@@ -62,21 +64,27 @@ export async function getStaticProps({ params }) {
     return { notFound: true };
   }
 
-  // ============================================================
-  // IMAGE CARDS
-  // Replace "insert image link" with your actual image URL.
-  // Each category contains 12 image cards.
-  // ============================================================
+  // Import category-specific images from data module
+  const imageData = await import('@/data/images').then(m => m[params.category] || []);
 
-  const categoryImages = {
+  return {
+    props: {
+      category,
+      images: imageData
+    },
+    revalidate: 3600
+  };
+}
 
-    transportation: [
-      {
-        id: 'transportation-1',
-        title: 'Transportation 1',
-        thumb: 'https://media.gettyimages.com/id/1510586755/photo/road-side-park-for-bike-riders.jpg?s=612x612&w=0&k=20&c=ewuW1R1FyVu7mqKYsrtY8YmehrMumyFf4OmJFbnaI9o=',
-        url: '#',
-        platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
-        platformLinks: {
-          getty: 'https://www.gettyimages.ie/search/stack/821034622?family=creative&assettype=image',
-          shutterstock: 'https://www.shutterstock.com/g/pencilsmoka?q=transportation',
+export async function getStaticPaths() {
+  const paths = imageCategories.map((category) => ({
+    params: {
+      category: category.slug
+    }
+  }));
+
+  return {
+    paths,
+    fallback: false
+  };
+}
