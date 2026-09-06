@@ -9,7 +9,7 @@ export default function App({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <meta charset="UTF-8" />
+        <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="description" content="African Photos and Videos - Premium stock photography and videography portfolio discovery platform. Browse and license stunning African imagery from Getty Images, Shutterstock, Adobe Stock, and Pond5." />
         <meta name="keywords" content="African photography, stock photos, stock videos, Getty Images, Shutterstock, Adobe Stock, Pond5, African imagery, visual content" />
