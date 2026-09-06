@@ -3,6 +3,7 @@ import Layout from '@/components/Layout';
 import Breadcrumb from '@/components/Breadcrumb';
 import CategoryGallery from '@/components/CategoryGallery';
 import { videoCategories, getVideoCategory } from '@/data/categories';
+import { platformLinks } from '@/data/platformLinks';
 
 export default function VideoCategory({ category, videos }) {
   const pageTitle = `${category.title} Stock Videos | African Photos and Videos`;
@@ -27,6 +28,7 @@ export default function VideoCategory({ category, videos }) {
         <meta name="twitter:description" content={pageDescription} />
         <script
           type="application/ld+json"
+          suppressHydrationWarning
           dangerouslySetInnerHTML={{
             __html: JSON.stringify({
               '@context': 'https://schema.org',
@@ -62,33 +64,27 @@ export async function getStaticProps({ params }) {
     return { notFound: true };
   }
 
-  // ============================================================
-  // VIDEO GALLERY DATA
-  // 8 categories × 12 video cards = 96 video cards
-  //
-  // Replace:
-  // thumb: 'insert image link'
-  //
-  // with your actual thumbnail URL.
-  //
-  // Replace:
-  // url: '#'
-  //
-  // with the actual Getty Images, Shutterstock,
-  // Adobe Stock or Pond5 video URL when ready.
-  // ============================================================
+  // Import category-specific videos from data module
+  const videoData = await import('@/data/videos').then(m => m[params.category] || []);
 
-  const categoryVideos = {
+  return {
+    props: {
+      category,
+      videos: videoData
+    },
+    revalidate: 3600
+  };
+}
 
-    // ==========================================================
-    // LIFESTYLE
-    // ==========================================================
+export async function getStaticPaths() {
+  const paths = videoCategories.map((category) => ({
+    params: {
+      category: category.slug
+    }
+  }));
 
-    lifestyle: [
-      {
-        id: 'lifestyle-1',
-        title: 'Lifestyle 1',
-        thumb: 'https://media.gettyimages.com/id/1425841841/video/lagos-island-street.jpg?s=640x640&k=20&c=cDwtwla0cPLMGePBivM1leej2aC-f8nKEAAM1CpQ7OE=',
-        url: '#',
-        platforms: ['getty', 'shutterstock', 'adobe', 'pond5'],
-        platformLinks: {#}
+  return {
+    paths,
+    fallback: false
+  };
+}
