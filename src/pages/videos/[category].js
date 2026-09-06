@@ -38,11 +38,11 @@ export default function VideoCategory({ category, videos }) {
               url: `https://www.africanphotosandvideos.com.ng/videos/${category.slug}`,
               breadcrumb: {
                 '@type': 'BreadcrumbList',
-                'itemListElement': breadcrumbs.map((item, index) => ({
+                itemListElement: breadcrumbs.map((item, index) => ({
                   '@type': 'ListItem',
-                  'position': index + 1,
-                  'name': item.name,
-                  'item': `https://www.africanphotosandvideos.com.ng${item.url}`
+                  position: index + 1,
+                  name: item.name,
+                  item: `https://www.africanphotosandvideos.com.ng${item.url}`
                 }))
               }
             })
