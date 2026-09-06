@@ -106,7 +106,7 @@ export default function Layout({ children }) {
           <div className={styles.footerSection}>
             <h4>Stock Platforms</h4>
             <ul>
-              <li><a href="https://www.gettyimages.com/search/2/image-film?family=creative&phrase=ariyo%20olasunkanmi&sort=best&assetfiletype=" target="_blank" rel="noopener noreferrer">Getty Images</a></li>
+              <li><a href="https://www.gettyimages.com/search/2/image-film?family=creative&phrase=ariyo%20olasunkanmi&sort=best&assetfiletype=stillimage" target="_blank" rel="noopener noreferrer">Getty Images</a></li>
               <li><a href="https://www.shutterstock.com/g/pencilsmoka?msockid=39c8125b262c607e21de04f7271861ba" target="_blank" rel="noopener noreferrer">Shutterstock</a></li>
               <li><a href="https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba" target="_blank" rel="noopener noreferrer">Adobe Stock</a></li>
               <li><a href="https://www.pond5.com/artist/sunkanmi38180" target="_blank" rel="noopener noreferrer">Pond5</a></li>
