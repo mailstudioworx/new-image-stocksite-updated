@@ -22,6 +22,7 @@ export default function Home() {
         <meta name="twitter:image" content="https://www.africanphotosandvideos.com.ng/og-image.jpg" />
         <script
           type="application/ld+json"
+          suppressHydrationWarning
           dangerouslySetInnerHTML={{
             __html: JSON.stringify({
               '@context': 'https://schema.org',

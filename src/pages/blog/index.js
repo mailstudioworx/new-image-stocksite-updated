@@ -47,6 +47,7 @@ export default function Blog({ posts }) {
 
         <script
           type="application/ld+json"
+          suppressHydrationWarning
           dangerouslySetInnerHTML={{
             __html: JSON.stringify(structuredData)
           }}
